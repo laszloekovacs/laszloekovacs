@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## tech I'm confortable
+[(https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=Remix&logoColor=FFFFFF&logoWidth=14)]
