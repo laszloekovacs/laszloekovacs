@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **laszloekovacs/laszloekovacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://badgegenius.vercel.app/
+forthebadge.com
+
 -->
 <!--[![  label  ](   badgeurl   )] ( ) -->
 ### list of fancy tech I'm using
-<!-- [![javascript]()](http://ok.lo) -->
-
+[![rpi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=FFFFFF&logoWidth=14)](uk.ku)
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF&logoWidth=14)](https://react.dev)
 [![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF&logoWidth=14)](http://tsc.com)
