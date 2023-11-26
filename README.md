@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 [![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF&logoWidth=14)](http://ki.ki)
 [![mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=FFFFFF&logoWidth=14)](ht://juj.li)
 [![postgresq](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&logoWidth=14)](ku://io.kl)
+
+[![styled](https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled%20components&logoColor=FFFFFF&logoWidth=14)](juju://kik.li)
