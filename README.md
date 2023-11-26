@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br />
 [![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=Remix&logoColor=FFFFFF&logoWidth=14)](https://remix.run)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF&logoWidth=14)](https://react.dev)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF&logoWidth=14)](http://reduxtoolkit.com)
+[![Redux](https://img.shields.io/badge/Redux%20tk-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF&logoWidth=14)](http://reduxtoolkit.com)
 [![next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF&logoWidth=14)](http:/lo.hu.lo)
 [![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF&logoWidth=14)](http://ki.ki)
 [![mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=FFFFFF&logoWidth=14)](ht://juj.li)
