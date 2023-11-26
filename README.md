@@ -45,3 +45,4 @@ forthebadge.com
 [![azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=FFFFFF&logoWidth=14)](https://docs.com)
 [![joi](https://img.shields.io/badge/joi-purple?style=for-the-badge)](https://joi.dev/)
 [![chalk](https://img.shields.io/badge/chalk-blue?style=for-the-badge)](https://github.com/chalk/chalk#readme)
+[![toast](https://img.shields.io/badge/toast-yellow?style=for-the-badge)](https://react-hot-toast.com/)
