@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--[![  label  ](   badgeurl   )] ( ) -->
 ### list of fancy tech I'm using
-[![javascript]()](http://ok.lo)
+<!-- [![javascript]()](http://ok.lo) -->
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF&logoWidth=14)](https://mdn.org)
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF&logoWidth=14)](https://mdn.org)
 [![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF&logoWidth=14)](http://tsc.com)
