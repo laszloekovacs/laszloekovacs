@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 [![styled](https://img.shields.io/badge/styled-DB7093?style=for-the-badge&logo=styled%20components&logoColor=FFFFFF&logoWidth=14)](juju://kik.li)
 [![graphql](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=FFFFFF&logoWidth=14)](juj.ju)
 [![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=FFFFFF&logoWidth=14)](ki.ki.ki)
-[![openid](https://img.shields.io/badge/OpenID-F78C40?style=for-the-badge&logo=OpenID&logoColor=FFFFFF&logoWidth=14)()
-[![auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=Auth0&logoColor=FFFFFF&logoWidth=14)()
+[![openid](https://img.shields.io/badge/OpenID-F78C40?style=for-the-badge&logo=OpenID&logoColor=FFFFFF&logoWidth=14)(ki.lo.lo)
+[![auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=Auth0&logoColor=FFFFFF&logoWidth=14)(jy.ki.ki)
