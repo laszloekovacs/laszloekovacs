@@ -43,3 +43,4 @@ https://badgegenius.vercel.app/
 [![react-hook-form](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF&logoWidth=14)](lo.lo)
 [![react-hook-form](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&logoWidth=14)](lo.lo)
 [![react-hook-form](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=FFFFFF&logoWidth=14)](lo.lo)
+[![Static Badge](https://img.shields.io/badge/joi-purple?style=for-the-badge)](lo.lo)
