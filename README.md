@@ -32,7 +32,7 @@ https://badgegenius.vercel.app/
 [![auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=Auth0&logoColor=FFFFFF&logoWidth=14)](jy.ki.ki)
 [![styled](https://img.shields.io/badge/styled-DB7093?style=for-the-badge&logo=styled%20components&logoColor=FFFFFF&logoWidth=14)](juju://kik.li)
 [![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=FFFFFF&logoWidth=14)](lo.lo)
-
+[![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF&logoWidth=14)](lo.lo)
 ### links to interesting stuff
 [![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=FFFFFF&logoWidth=14)](ki.ki.ki)
 [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&logoWidth=14)](lo.lo)
