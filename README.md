@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 
 ### links for interesting stuff
-[![https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=FFFFFF&logoWidth=14]](lo.lo)
+[![react-hook-form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=React%20Hook%20Form&logoColor=FFFFFF&logoWidth=14)](lo.lo)
