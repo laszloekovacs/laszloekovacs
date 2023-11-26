@@ -40,3 +40,4 @@ forthebadge.com
 [![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF&logoWidth=14)](lo.lo)
 [![azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=FFFFFF&logoWidth=14)](lo.lo)
 [![joi](https://img.shields.io/badge/joi-purple?style=for-the-badge)](lo.lo)
+[![chalk](https://img.shields.io/badge/chalk-blue?style=for-the-badge)](https://github.com/chalk/chalk#readme)
