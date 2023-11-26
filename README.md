@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF&logoWidth=14)](https://mdn.org)
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF&logoWidth=14)](https://mdn.org)
 [![typescript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF&logoWidth=14)](http://tsc.com)
-<br />
 [![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=Remix&logoColor=FFFFFF&logoWidth=14)](https://remix.run)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF&logoWidth=14)](https://react.dev)
 [![Redux](https://img.shields.io/badge/Redux%20tk-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF&logoWidth=14)](http://reduxtoolkit.com)
@@ -28,7 +27,6 @@ Here are some ideas to get you started:
 [![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF&logoWidth=14)](http://ki.ki)
 [![mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=FFFFFF&logoWidth=14)](ht://juj.li)
 [![postgresq](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&logoWidth=14)](ku://io.kl)
-
 [![styled](https://img.shields.io/badge/styled-DB7093?style=for-the-badge&logo=styled%20components&logoColor=FFFFFF&logoWidth=14)](juju://kik.li)
 [![graphql](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=FFFFFF&logoWidth=14)](juj.ju)
 [![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=FFFFFF&logoWidth=14)](ki.ki.ki)
@@ -39,3 +37,8 @@ Here are some ideas to get you started:
 
 ### links for interesting stuff
 [![react-hook-form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=React%20Hook%20Form&logoColor=FFFFFF&logoWidth=14)](lo.lo)
+
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF&logoWidth=14
+https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF&logoWidth=14
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&logoWidth=14
+https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=FFFFFF&logoWidth=14
