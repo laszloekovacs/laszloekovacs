@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=FFFFFF&logoWidth=14)](lo.lo)
 
 
-### links for interesting stuff
+### links to interesting stuff
 [![react-hook-form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=React%20Hook%20Form&logoColor=FFFFFF&logoWidth=14)](lo.lo)
 
 https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF&logoWidth=14
