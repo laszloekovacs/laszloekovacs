@@ -46,3 +46,4 @@ forthebadge.com
 [![joi](https://img.shields.io/badge/joi-purple?style=for-the-badge)](https://joi.dev/)
 [![chalk](https://img.shields.io/badge/chalk-blue?style=for-the-badge)](https://github.com/chalk/chalk#readme)
 [![toast](https://img.shields.io/badge/toast-yellow?style=for-the-badge)](https://react-hot-toast.com/)
+[![date-fns](https://img.shields.io/badge/date--fns-purple?style=for-the-badge)](https://date-fns.org/)
