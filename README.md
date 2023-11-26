@@ -33,6 +33,7 @@ forthebadge.com
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF&logoWidth=14)](https://www.npmjs.com/)
 
 ### links to interesting stuff
+[![chakraui](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=Chakra%20UI&logoColor=FFFFFF&logoWidth=14)](https://chakra-ui.com/)
 [![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF&logoWidth=14)](https://jestjs.io/)
 [![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=FFFFFF&logoWidth=14)](https://code.visualstudio.com/)
 [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&logoWidth=14)](https://github.com/)
