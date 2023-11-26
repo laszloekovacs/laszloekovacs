@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://badgegenius.vercel.app/
 -->
 <!--[![  label  ](   badgeurl   )] ( ) -->
 ### list of fancy tech I'm using
 <!-- [![javascript]()](http://ok.lo) -->
-[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF&logoWidth=14)](https://mdn.org)
-[![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF&logoWidth=14)](https://mdn.org)
-[![typescript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF&logoWidth=14)](http://tsc.com)
+
+
+[![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF&logoWidth=14)](http://tsc.com)
 [![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=Remix&logoColor=FFFFFF&logoWidth=14)](https://remix.run)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF&logoWidth=14)](https://react.dev)
 [![Redux](https://img.shields.io/badge/Redux%20tk-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF&logoWidth=14)](http://reduxtoolkit.com)
@@ -37,8 +38,8 @@ Here are some ideas to get you started:
 
 ### links to interesting stuff
 [![react-hook-form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=React%20Hook%20Form&logoColor=FFFFFF&logoWidth=14)](lo.lo)
-
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF&logoWidth=14
-https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF&logoWidth=14
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&logoWidth=14
-https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=FFFFFF&logoWidth=14
+[![react-hook-form](https://img.shields.io/badge/MDN%20Web%20Docs-000000?style=for-the-badge&logo=MDN%20Web%20Docs&logoColor=FFFFFF&logoWidth=14)](lo.lo)
+[![react-hook-form](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF&logoWidth=14)](lo.lo)
+[![react-hook-form](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF&logoWidth=14)](lo.lo)
+[![react-hook-form](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&logoWidth=14)](lo.lo)
+[![react-hook-form](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=FFFFFF&logoWidth=14)](lo.lo)
