@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 [![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=FFFFFF&logoWidth=14)](ki.ki.ki)
 [![openid](https://img.shields.io/badge/OpenID-F78C40?style=for-the-badge&logo=OpenID&logoColor=FFFFFF&logoWidth=14)](ki.lo.lo)
 [![auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=Auth0&logoColor=FFFFFF&logoWidth=14)](jy.ki.ki)
+[![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=FFFFFF&logoWidth=14)](lo.lo)
