@@ -33,6 +33,7 @@ forthebadge.com
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF&logoWidth=14)](https://www.npmjs.com/)
 
 ### links to interesting stuff
+[![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF&logoWidth=14)](https://jestjs.io/)
 [![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=FFFFFF&logoWidth=14)](https://code.visualstudio.com/)
 [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&logoWidth=14)](https://github.com/)
 [![postgresq](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&logoWidth=14)](https://www.postgresql.org/docs/current/index.html)
