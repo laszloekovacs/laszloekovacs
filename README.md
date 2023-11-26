@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 <!--[![  label  ](   badgeurl   )] ( ) -->
 ### list of fancy tech I'm using
 [![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=Remix&logoColor=FFFFFF&logoWidth=14)](https://remix.run)
-[![AndManyMore](https://github.com)]
+[![AndManyMore](https://github.com)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF&logoWidth=14)](https://react.dev)
