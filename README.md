@@ -48,3 +48,4 @@ forthebadge.com
 [![toast](https://img.shields.io/badge/toast-yellow?style=for-the-badge)](https://react-hot-toast.com/)
 [![date-fns](https://img.shields.io/badge/date--fns-purple?style=for-the-badge)](https://date-fns.org/)
 [![paypal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=PayPal&logoColor=FFFFFF&logoWidth=14)](https://developer.paypal.com/home)
+[![fluent-ui](https://img.shields.io/badge/fluentui-cyan?style=for-the-badge)](https://react.fluentui.dev/)
