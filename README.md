@@ -38,8 +38,8 @@ https://badgegenius.vercel.app/
 
 ### links to interesting stuff
 [![react-hook-form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=React%20Hook%20Form&logoColor=FFFFFF&logoWidth=14)](lo.lo)
-[![react-hook-form](https://img.shields.io/badge/MDN%20Web%20Docs-000000?style=for-the-badge&logo=MDN%20Web%20Docs&logoColor=FFFFFF&logoWidth=14)](lo.lo)
+[![react-hook-form](https://img.shields.io/badge/MDN-000000?style=for-the-badge&logo=MDN%20Web%20Docs&logoColor=FFFFFF&logoWidth=14)](lo.lo)
 [![react-hook-form](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF&logoWidth=14)](lo.lo)
 [![react-hook-form](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF&logoWidth=14)](lo.lo)
 [![react-hook-form](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&logoWidth=14)](lo.lo)
-[![react-hook-form](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=FFFFFF&logoWidth=14)](lo.lo)
+[![react-hook-form](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=FFFFFF&logoWidth=14)](lo.lo)
