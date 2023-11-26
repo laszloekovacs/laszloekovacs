@@ -30,7 +30,11 @@ forthebadge.com
 [![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF&logoWidth=14)](https://www.docker.com/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF&logoWidth=14)](https://www.npmjs.com/)
 
-### links to interesting stuff
+<details>
+  
+
+<summary>links to interesting stuff</summary>
+
 [![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=FFFFFF&logoWidth=14)](https://tailwindcss.com/)
 [![graphql](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=FFFFFF&logoWidth=14)](https://graphql.org/)
 [![chakraui](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=Chakra%20UI&logoColor=FFFFFF&logoWidth=14)](https://chakra-ui.com/)
@@ -49,3 +53,4 @@ forthebadge.com
 [![date-fns](https://img.shields.io/badge/date--fns-purple?style=for-the-badge)](https://date-fns.org/)
 [![paypal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=PayPal&logoColor=FFFFFF&logoWidth=14)](https://developer.paypal.com/home)
 [![fluent-ui](https://img.shields.io/badge/fluentui-cyan?style=for-the-badge)](https://react.fluentui.dev/)
+</details>
