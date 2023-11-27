@@ -33,7 +33,6 @@ list of fancy tech I'm using
 [![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=FFFFFF&logoWidth=14)](https://tailwindcss.com/)
 [![graphql](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=FFFFFF&logoWidth=14)](https://graphql.org/)
 [![chakraui](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=Chakra%20UI&logoColor=FFFFFF&logoWidth=14)](https://chakra-ui.com/)
-[![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF&logoWidth=14)](https://jestjs.io/)
 [![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=FFFFFF&logoWidth=14)](https://code.visualstudio.com/)
 [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&logoWidth=14)](https://github.com/)
 [![postgresq](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&logoWidth=14)](https://www.postgresql.org/docs/current/index.html)
@@ -48,6 +47,7 @@ list of fancy tech I'm using
 [![date-fns](https://img.shields.io/badge/date--fns-purple?style=for-the-badge)](https://date-fns.org/)
 [![paypal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=PayPal&logoColor=FFFFFF&logoWidth=14)](https://developer.paypal.com/home)
 [![fluent-ui](https://img.shields.io/badge/fluentui-cyan?style=for-the-badge)](https://react.fluentui.dev/)
+[![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF&logoWidth=14)](https://jestjs.io/)
 [![testing-library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=Testing%20Library&logoColor=FFFFFF&logoWidth=14)](https://testing-library.com/)
 
 #### like badges too?
