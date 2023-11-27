@@ -31,8 +31,6 @@ forthebadge.com
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF&logoWidth=14)](https://www.npmjs.com/)
 
 <details>
-  
-
 <summary>links to interesting stuff</summary>
 
 [![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=FFFFFF&logoWidth=14)](https://tailwindcss.com/)
@@ -53,4 +51,11 @@ forthebadge.com
 [![date-fns](https://img.shields.io/badge/date--fns-purple?style=for-the-badge)](https://date-fns.org/)
 [![paypal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=PayPal&logoColor=FFFFFF&logoWidth=14)](https://developer.paypal.com/home)
 [![fluent-ui](https://img.shields.io/badge/fluentui-cyan?style=for-the-badge)](https://react.fluentui.dev/)
+</details>
+
+<details>
+  <summary>Like badges?</summary>
+
+  [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
+  
 </details>
