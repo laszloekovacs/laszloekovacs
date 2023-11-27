@@ -11,11 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://badgegenius.vercel.app/
-forthebadge.com
-
 -->
-<!--[![  label  ](   badgeurl   )] ( ) -->
+
+
 ### list of fancy tech I'm using
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF&logoWidth=14)](https://react.dev)
 [![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF&logoWidth=14)](https://www.typescriptlang.org/)
@@ -53,9 +51,6 @@ forthebadge.com
 [![fluent-ui](https://img.shields.io/badge/fluentui-cyan?style=for-the-badge)](https://react.fluentui.dev/)
 </details>
 
-<details>
-  <summary>Like badges?</summary>
-
-  [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
-  
-</details>
+#### like badges?
+  [forthebadge](forthebadge.com)
+  [badgegenious.vercel.app](https://badgegenius.vercel.app/)
