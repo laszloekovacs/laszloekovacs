@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+<summary>
+list of fancy tech I'm using 
+</summary>
 
-### list of fancy tech I'm using
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF&logoWidth=14)](https://react.dev)
 [![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF&logoWidth=14)](https://www.typescriptlang.org/)
 [![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=Remix&logoColor=FFFFFF&logoWidth=14)](https://remix.run)
@@ -50,3 +53,5 @@ Here are some ideas to get you started:
 #### like badges too?
  - [forthebadge](forthebadge.com)
  - [badgegenious.vercel.app](https://badgegenius.vercel.app/)
+
+</details>
