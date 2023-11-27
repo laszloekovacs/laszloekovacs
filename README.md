@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=FFFFFF&logoWidth=14)](https://mongoosejs.com/)
 [![openid](https://img.shields.io/badge/OpenID-F78C40?style=for-the-badge&logo=OpenID&logoColor=FFFFFF&logoWidth=14)](https://auth0.com/)
 [![auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=Auth0&logoColor=FFFFFF&logoWidth=14)](https://auth0.com/)
-[![styled](https://img.shields.io/badge/styled-DB7093?style=for-the-badge&logo=styled%20components&logoColor=FFFFFF&logoWidth=14)](https://styled-components.com/)
+[![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled%20components&logoColor=FFFFFF&logoWidth=14)](https://styled-components.com/)
 [![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF&logoWidth=14)](https://www.docker.com/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF&logoWidth=14)](https://www.npmjs.com/)
 [![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=FFFFFF&logoWidth=14)](https://tailwindcss.com/)
