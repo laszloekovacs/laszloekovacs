@@ -64,7 +64,7 @@ list of fancy tech I'm using
 [![paypal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=PayPal&logoColor=FFFFFF&logoWidth=14)](https://developer.paypal.com/home)
 [![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF&logoWidth=14)](https://jestjs.io/)
 [![testing-library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=Testing%20Library&logoColor=FFFFFF&logoWidth=14)](https://testing-library.com/)
-
+[![cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=FFFFFF&logoWidth=14)](https://www.cypress.io/)
 #### like badges too?
  - [forthebadge](forthebadge.com)
  - [badgegenious.vercel.app](https://badgegenius.vercel.app/)
