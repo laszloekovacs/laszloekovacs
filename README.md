@@ -70,3 +70,5 @@ list of fancy tech I'm using
  - [badgegenious.vercel.app](https://badgegenius.vercel.app/)
 
 </details>
+
+- fake emailing: https://ethereal.email/
