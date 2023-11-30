@@ -46,6 +46,7 @@ list of fancy tech I'm using
 [![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=FFFFFF&logoWidth=14)](https://tailwindcss.com/)
 [![chakraui](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=Chakra%20UI&logoColor=FFFFFF&logoWidth=14)](https://chakra-ui.com/)
 [![fluent-ui](https://img.shields.io/badge/fluentui-cyan?style=for-the-badge)](https://react.fluentui.dev/)
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)](https://getbootstrap.com/)
 
 #### tooling
 [![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF&logoWidth=14)](https://www.docker.com/)
@@ -68,7 +69,7 @@ list of fancy tech I'm using
 #### like badges too?
  - [forthebadge](forthebadge.com)
  - [badgegenious.vercel.app](https://badgegenius.vercel.app/)
-
+ - [works-on-chrome](https://badges.pages.dev/)
 </details>
 
 - fake emailing: https://ethereal.email/
