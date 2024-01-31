@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 list of fancy tech I'm using 
 </summary>
 
+- fake emailing: https://ethereal.email/
+  
 #### funcamentals 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF&logoWidth=14)](https://react.dev)
 [![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF&logoWidth=14)](https://www.typescriptlang.org/)
@@ -72,4 +74,3 @@ list of fancy tech I'm using
  - [works-on-chrome](https://badges.pages.dev/)
 </details>
 
-- fake emailing: https://ethereal.email/
