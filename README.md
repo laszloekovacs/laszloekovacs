@@ -19,6 +19,7 @@ list of fancy tech I'm using
 </summary>
 
 - fake emailing: https://ethereal.email/
+- drawing in the browser: https://excalidraw.com/
   
 #### funcamentals 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF&logoWidth=14)](https://react.dev)
