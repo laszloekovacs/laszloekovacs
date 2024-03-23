@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+| Live Demos |
+| ---------- |
+|            |
+
+
+
 <details>
 <summary>
 list of fancy tech I'm using 
