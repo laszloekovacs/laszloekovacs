@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 | Live Demos                                        | |
 | ------------------------------------------------- | - |
-| [![shoppr-remix](https://shoppr.am4.duckdns.org)] | webshop using remix.run and stripe |
+| [shoppr-remix](https://shoppr.am4.duckdns.org)] | webshop using remix.run and stripe |
 
 
 
