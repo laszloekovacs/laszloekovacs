@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 | Live Demos                                        | Description |
 | ------------------------------------------------- | -- | 
-| [shoppr-remix](https://shoppr.am4.duckdns.org) | webshop using remix.run and stripe, self hosted | 
+| [shoppr-remix](https://shoppr.am4.duckdns.org) | webshop using remix.run, mongodb and stripe, self hosted | 
 
 
 
