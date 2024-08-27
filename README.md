@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| Live Demos                                        | Description |
-| ------------------------------------------------- | -- | 
-| [shoppr-remix](https://shoppr.am4.duckdns.org) | webshop using remix.run, mongodb and stripe, self hosted | 
-| [cinema-time](https://cinema.am4.duckdns.org) | cinema work shift loggind app, self hosted |
+
 
 
 <details>
