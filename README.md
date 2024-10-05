@@ -23,7 +23,7 @@ list of fancy tech I'm using
 
 - fake emailing: https://ethereal.email/
 - drawing in the browser: https://excalidraw.com/
-
+- https://www.flicon.io/ icons
 - convex paas
 - caprover
 - coolify
