@@ -27,6 +27,8 @@ list of fancy tech I'm using
 - convex paas
 - caprover
 - coolify
+- https://lucia-auth.com/
+
   
 #### funcamentals 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF&logoWidth=14)](https://react.dev)
