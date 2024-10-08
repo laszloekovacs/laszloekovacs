@@ -28,7 +28,7 @@ list of fancy tech I'm using
 - caprover
 - coolify
 - https://lucia-auth.com/
-
+- https://picocss.com/
   
 #### funcamentals 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF&logoWidth=14)](https://react.dev)
