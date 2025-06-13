@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![alt text](EaH.gif)
+<img src="EaH.gif" alt="alt text" width="100%" height="100%">
