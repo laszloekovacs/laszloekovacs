@@ -13,14 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="background-color: lightyellow; padding: 10px; border-radius: 8px;">
-  <h2 style="color: teal;">Welcome to my Profile!</h2>
-  <p>This is a custom section styled with inline CSS.</p>
-</div>
-
-<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="200" height="60" fill="lightblue" rx="10" ry="10" />
-  <text x="100" y="35" text-anchor="middle" font-size="20" fill="darkblue" font-family="Verdana">
-    Hello, GitHub!
-  </text>
-</svg>
+![alt text](EaH.gif)
